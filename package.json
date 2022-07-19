@@ -1,0 +1,24 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devramsean0/personal-site",
+  "author": "devramsean0 <outramsean0@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "@types/react": "^18.0.15",
+    "typescript": "^4.7.4"
+  }
+}
