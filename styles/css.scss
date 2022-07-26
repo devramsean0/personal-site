@@ -1,0 +1,21 @@
+@import './partials/fonts';
+header {
+    background-color: #fff;
+    padding: 10px;
+    font-size: 1.5em;
+    font-weight: 400;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+    border-bottom: #000 2px solid;
+}
+section {
+    padding: 10px;
+    color: #000;
+    font-family: 'Uchen', serif;
+    text-align: center;
+}
+.header {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(255, 153, 0);
+}
